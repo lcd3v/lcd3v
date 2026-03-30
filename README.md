@@ -8,7 +8,6 @@
   <a href="https://www.instagram.com/leo.santos5_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="30" alt="instagram logo">
   </a>
-  
   <a href="https://linkedin.com/in/seu_usuario">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo">
   </a>
