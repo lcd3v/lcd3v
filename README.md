@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/leo.santos5_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="[https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)">
   </a>
   
   <a href="https://linkedin.com/in/seu_usuario">
