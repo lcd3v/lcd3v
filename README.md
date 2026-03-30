@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://linkedin.com/in/seu_usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo">
   </a>
 </p>
 
