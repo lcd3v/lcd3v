@@ -11,6 +11,10 @@
   <a href="https://linkedin.com/in/seu_usuario">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo">
   </a>
+   <a href="wa.me/71984679593">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="30" alt="whatsapp logo">
+  </a>
+  
 </p>
 
 ###
