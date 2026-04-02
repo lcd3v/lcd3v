@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">Olá! Sou aluno do SENAI Cimatec, estou cursando o Técnico em Desenvolvimento de Sistemas, busco me profissionalizar na minha área de interesse. Tenho facilidade em aprender, sou disciplinado com prazos e gosto de me sentir desafiado para cumprir novos desafios.<br><br>Com esse perfil, tenho como objetivo de compartilhar meus projetos, registrando minhas evoluções, além de aplicar a melhoria continua na minha carreira.</p>
+<p align="left">Olá! Sou aluno do SENAI Cimatec, cursando o terceiro semestre do Técnico em Desenvolvimento de Sistemas, busco me profissionalizar na minha área de interesse. Tenho me dedicado a desenvolver projetos reais que simulam cenários do mercado, buscando sempre escrever código limpo, organizado e escalável.<br><br>Focado em transformar teoria em prática através de projetos reais. Organização, Aprendizado rápido, Proatividade e Resolução de problemas são algumas das minhas soft skills.<br><br>Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer dentro do mercado.</p>
 
 ###
 
-<h2 align="left">💻 Language and tools</h2>
+<h2 align="left">💻 Skills</h2>
 
 ###
 
@@ -46,4 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+##
+<h1 align="center">"Evoluindo um projeto por vez até me tornar referência na área."</h1>
+
