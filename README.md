@@ -6,13 +6,15 @@
 
 <p align="center">
   <a href="https://www.instagram.com/leo.santos5_">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="30" alt="instagram logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/seu_usuario">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
   </a>
-   <a href="https://w.app/xputcq">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="30" alt="whatsapp logo">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://w.app/xputcq">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45"/>
   </a>
 </p>
 
