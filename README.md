@@ -40,17 +40,13 @@ class SobreMim extends Desenvolvedor {
 
 <p align="center"><strong>Back-end</strong></p>
 
-[![Backend](https://skillicons.dev/icons?i=java,cpp,mysql,py&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
 
 <p align="center"><strong>IDE's && DevOps</strong></p>
 
-[![Skills](https://skillicons.dev/icons?i=idea,docker,git,github,spring&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=idea,docker,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lcd3v&theme=react-dark&bg_color=00000000&hide_border=true&line=58A6FF&point=F778BA" />
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=LCd3v%20-%20Programado%20pra%20vencer,%20deployando%20resultados%20todos%20os%20dias.&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=C0C0C0"  />
